@@ -2,5 +2,6 @@
 #define __FUNCS_H__ 
 double MySum(double, double);
 double MySub(double, double);
-double MyMul(double, double);10:12 25.10.2023
+double MyMul(double, double);
+double MyDiv(double a, double b)
 #endif  __FUNCS_H__
